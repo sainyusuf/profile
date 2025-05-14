@@ -1,0 +1,27 @@
+# some information about you
+name: "Husain Yusuf"
+nickname: "Sain"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+image: "images/author/avatar.png"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "husain.yusuf@gmx.de"
+  phone: "+0123456789"
+  linkedin_profile:
+    icon: "fab fa-linkedin"
+    url: "https://linkedin.com/in/husainyusuf89"
+    text: "Husain Yusuf"
+  github_profile:
+    icon: "fab fa-github"
+    url: "https://github.com/sainyusuf"
+    text: "SainYusuf"
+ 
+
+# a summary of what you do
+summary:
+- I am a Cloud Engineer
+- I love to work with some fun projects

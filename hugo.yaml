@@ -1,7 +1,11 @@
 baseURL: https://sainyusuf.github.io/profile/
 languageCode: en-us
-title: Husain Yusuf Profile
-theme: ananke
+title: Husain Yusuf 
+theme: "toha"
+
+# default language for the content
+defaultContentLanguage: en
+
 caches:
   images:
     dir: ':cacheDir/images'
@@ -10,6 +14,34 @@ module:
     - path: github.com/hugo-toha/toha/v4
 
 params:
+  background: "images/background.jpg"
   features:
     analytics:
       enabled: false
+    toc:
+      enabled: true
+
+# Markup settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Blog
+      url: /blog/
+      weight: 4
+    - name: Contact
+      url: /contact/
+      weight: 5
