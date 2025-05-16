@@ -1,7 +1,7 @@
 baseURL: https://sainyusuf.github.io/profile/
 languageCode: en-us
 title: Husain Yusuf 
-theme: "toha"
+#theme: "toha"
 
 # default language for the content
 defaultContentLanguage: en
