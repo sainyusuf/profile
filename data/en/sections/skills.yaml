@@ -7,3 +7,9 @@ section:
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
+
+  skills:
+  - name: Cloud Computing
+    logo: "images/badges/AWS_SAP.png"
+    summary: "Expertise in designing, deploying, and managing cloud infrastructure using AWS."
+    url: "https://kubernetes.io/"

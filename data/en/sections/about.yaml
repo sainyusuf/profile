@@ -54,17 +54,17 @@ badges:
   badge: "images/badges/AWS_WAP.png"
 
 
-- type: soft-skill-indicator
-  name: Communication 
-  percentage: 85
-  color: blue
+# - type: soft-skill-indicator
+#   name: Communication 
+#   percentage: 85
+#   color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 90
+#   color: yellow
 
-- type: soft-skill-indicator
-  name: Adaptability
-  percentage: 85
-  color: orange
+# - type: soft-skill-indicator
+#   name: Adaptability
+#   percentage: 85
+#   color: orange
