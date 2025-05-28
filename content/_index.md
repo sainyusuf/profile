@@ -6,7 +6,7 @@ layout: "home" # Specifies to use the Toha home layout
 # Intro Section
 intro:
   enable: true
-  title: "Hi, I'm Husain" # Replace [Your Name]
+  title: "Hi There 👋 , I'm Husain" 
   subtitle: "Cloud Architect | AWS | Kubernetes | Terraform | Python"
   content: |
     I am a passionate and experienced Cloud Architect with over 5 years of expertise in designing, implementing, and managing robust cloud solutions.

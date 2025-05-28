@@ -7,7 +7,16 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: '
+  👋 Hi, I’m Husain Yusuf — a freelance Cloud & DevOps Engineer helping startups and growing businesses build fast, reliable, and scalable cloud infrastructure.
+
+  With over 4 years of experience in AWS, Terraform, CI/CD, Docker, Kubernetes, and Python, I specialize in automating infrastructure and deployment workflows so your team can focus on building — not firefighting.
+
+  Whether you need to set up a secure AWS environment, automate your Terraform pipelines, or streamline your delivery with Kubernetes and GitOps, I bring hands-on expertise and a customer-first mindset to every project.
+
+  Let’s make your cloud work for you — securely, efficiently, and at scale.
+
+  '
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
