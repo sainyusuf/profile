@@ -7,16 +7,18 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
 # a summary about you
-summary: '
-  👋 Hi, I’m Husain Yusuf — a freelance Cloud & DevOps Engineer helping startups and growing businesses build fast, reliable, and scalable cloud infrastructure.
+summary: 
+  👋 Hey Ho — I am a Cloud & DevOps Engineer with 4+ years of experience in **AWS**, **Terraform**, **CI/CD**, **Docker**, **Kubernetes**, and **Python**.<br>
 
-  With over 4 years of experience in AWS, Terraform, CI/CD, Docker, Kubernetes, and Python, I specialize in automating infrastructure and deployment workflows so your team can focus on building — not firefighting.
+  I specialize in building **automated, scalable infrastructure** so teams can move faster and spend less time on repetitive tasks while maintains **cost-effective infrastructure.**<br>
 
-  Whether you need to set up a secure AWS environment, automate your Terraform pipelines, or streamline your delivery with Kubernetes and GitOps, I bring hands-on expertise and a customer-first mindset to every project.
+  I’m also an **AWS Community Builder** and love sharing cloud best practices with the tech community.<br>
 
-  Let’s make your cloud work for you — securely, efficiently, and at scale.
+  **Explore my site** to learn more about my work, projects, and thoughts on cloud technologies.<br>
 
-  '
+  When I’m not in the cloud, you’ll probably find me on the **basketball court** — as a player or a referee. 🏀
+
+
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -26,9 +28,34 @@ badges:
   name: AWS Certified Solutions Architect – Professional
   url: "https://www.credly.com/badges/f0067e05-4103-4cbb-b566-03ceb4c3500c/public_url"
   badge: "images/badges/AWS_SAP.png"
+- type: certification
+  name: AWS Certified DevOps Engineer – Professional
+  url: "https://www.credly.com/badges/210f9bf6-a126-45dc-8876-2b17fe9bb696/public_url"
+  badge: "images/badges/AWS_DOP.png"
+
+- type: certification
+  name: AWS Certified Security – Specialty
+  url: "https://www.credly.com/badges/56d11275-ad55-4535-b5c9-48d18f5df4da/public_url"
+  badge: "images/badges/AWS_SSP.png"
+
+- type: certification
+  name: Certified Kubernetes Application Developer
+  url: "https://www.credly.com/badges/fe6019f4-8393-4b2e-b8fa-458f3daabbe0/public_url"
+  badge: "images/badges/CKAD.png"
+
+- type: certification
+  name: Certified
+  url: "https://www.credly.com/badges/1ffe09f5-2fcc-4949-a753-a7716c777a32/public_url"
+  badge: "images/badges/CKA.png"
+
+- type: certification
+  name: AWS Certified Well Architect Proficient
+  url: "https://www.credly.com/badges/dd238a07-bf1f-4599-8a1e-4f6a4f7b1740/public_url"
+  badge: "images/badges/AWS_WAP.png"
+
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Communication 
   percentage: 85
   color: blue
 
@@ -38,6 +65,6 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Adaptability
   percentage: 85
   color: orange

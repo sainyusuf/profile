@@ -20,6 +20,8 @@ params:
       enabled: false
     toc:
       enabled: true
+    darkMode:
+      enabled: true
 
 # Markup settings
 markup:
